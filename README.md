@@ -20,5 +20,8 @@ Shared/dynamic libraries contain several lines of code. Using shared/dynamic lib
 #### How to Use:
 *  ./Program
 
-### Screenshots:
+### Screenshots Linux, Windows:
 ![Program](Linux/program.png)
+### Screenshots Windows:
+![Program](Windows/program.png)
+
